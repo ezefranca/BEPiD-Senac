@@ -23,7 +23,7 @@
 	// Do any additional setup after loading the view, typically from a nib.
     
     [webView loadRequest: [NSURLRequest requestWithURL:
-                           [NSURL URLWithString:@"http://bepid-senac.github.io"]]];
+                           [NSURL URLWithString:@"http://bepid-senac.github.io/mobile/"]]];
     
     Reachability * reach = [Reachability reachabilityWithHostname:@"bepid-senac.github.io"];
     UIImageView *RbackgroundView = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"bg-reachability"]];
