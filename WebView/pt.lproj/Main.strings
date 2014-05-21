@@ -1,0 +1,12 @@
+
+/* Class = "IBUIBarButtonItem"; title = "voltar"; ObjectID = "ckn-9z-lmq"; */
+"ckn-9z-lmq.title" = "voltar";
+
+/* Class = "IBUILabel"; text = "error..."; ObjectID = "kDg-Oq-2Zy"; */
+"kDg-Oq-2Zy.text" = "error...";
+
+/* Class = "IBUILabel"; text = "Status da Internet"; ObjectID = "sGG-Ic-bgK"; */
+"sGG-Ic-bgK.text" = "Status da Internet";
+
+/* Class = "IBUIBarButtonItem"; title = "avançar"; ObjectID = "yml-KG-aLV"; */
+"yml-KG-aLV.title" = "avançar";
